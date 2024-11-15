@@ -2,17 +2,17 @@
   "$schema": "https://mintlify.com/schema.json",
   "name": "Starter Kit",
   "logo": {
-    "dark": "/logo/dark.svg",
+    "dark": "/logo/kive-logo.png",
     "light": "/logo/light.svg"
   },
   "favicon": "/favicon.svg",
   "colors": {
-    "primary": "#0D9373",
-    "light": "#07C983",
-    "dark": "#0D9373",
+    "primary": "#6B46C1",
+    "light": "#9F7AEA",
+    "dark": "#553C9A",
     "anchors": {
-      "from": "#0D9373",
-      "to": "#07C983"
+      "from": "#6B46C1", 
+      "to": "#9F7AEA"
     }
   },
   "topbarLinks": [
@@ -22,8 +22,8 @@
     }
   ],
   "topbarCtaButton": {
-    "name": "Dashboard",
-    "url": "https://dashboard.mintlify.com"
+    "name": "Home",
+    "url": "https://kive.ai"
   },
   "tabs": [
     {
@@ -84,8 +84,8 @@
     }
   ],
   "footerSocials": {
-    "x": "https://x.com/mintlify",
-    "github": "https://github.com/mintlify",
-    "linkedin": "https://linkedin.com/company/mintlify"
+    "x": "https://x.com/getkive",
+    "github": "https://github.com/kiveai",
+    "linkedin": "https://linkedin.com/company/kiveai"
   }
 }
